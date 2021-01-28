@@ -1,0 +1,31 @@
+
+#dartboard #areas g path:hover{
+    /* opacity: 0.6; */
+    fill: yellow;
+}
+#dartboard #areas g circle:hover{
+    /* opacity: 0.6; */
+    fill: yellow;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.danger{
+    background-color: wheat;
+}
+
+.white{
+    background-color: whitesmoke;
+}
+
+#scoreThrowP1, #scoreThrowP2{
+    font-size: 20px!important
+}
+
+.table{
+    width: 50%;
+}
